@@ -42,9 +42,26 @@ class ReadConfig():
         return password
 
     @staticmethod
-    def getTest1screenshot():
-        loginscreenshot = config.get('common info', 'ss_loginpage')
-        return loginscreenshot
+    def getLoginscreenshot():
+        path = config.get('common info', 'ss_loginpage')
+        DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+        os.chdir(path)
+        NewFolder = 'Test_1_Login_' + DateString
+        os.makedirs(NewFolder)
+        return NewFolder
+
+    @staticmethod
+    def getDashboardscreenshot():
+        path = config.get('common info', 'ss_dashboad')
+        DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+        os.chdir(path)
+        NewFolder = 'Test_2_Dashboard_' + DateString
+        os.makedirs(NewFolder)
+        return NewFolder
+
+
+"""
+It is for common screenshot folder
 
     @staticmethod
     def getDirectory():
@@ -54,7 +71,7 @@ class ReadConfig():
         NewFolder = 'Test_shots_' + DateString
         os.makedirs(NewFolder)
         return NewFolder
-
+"""
 
 
 
