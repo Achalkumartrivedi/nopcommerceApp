@@ -101,3 +101,162 @@
 10/08/2022 08:08:08 PM Chromedriver is already installed.
 10/08/2022 08:08:10 PM ***** START Test 01: Login Page title verification *****
 10/08/2022 08:08:12 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 07:14:31 PM Downloading chromedriver (106.0.5249.21)...
+11/05/2022 07:14:37 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:14:41 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 07:16:44 PM Chromedriver is already installed.
+11/05/2022 07:16:46 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:16:50 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:16:54 PM Chromedriver is already installed.
+11/05/2022 07:16:56 PM Test_001_Home Page Title Verified
+11/05/2022 07:17:35 PM Chromedriver is already installed.
+11/05/2022 07:17:38 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:17:42 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:17:45 PM Chromedriver is already installed.
+11/05/2022 07:17:49 PM Test_001_Home Page Title Verified
+11/05/2022 07:20:13 PM Chromedriver is already installed.
+11/05/2022 07:20:17 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:20:22 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:20:23 PM Chromedriver is already installed.
+11/05/2022 07:20:26 PM Test_001_Home Page Title Verified
+11/05/2022 07:23:53 PM Chromedriver is already installed.
+11/05/2022 07:23:55 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:24:00 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:24:02 PM Chromedriver is already installed.
+11/05/2022 07:24:04 PM Test_001_Home Page Title Verified
+11/05/2022 07:28:19 PM Chromedriver is already installed.
+11/05/2022 07:28:21 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:28:27 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:28:29 PM Chromedriver is already installed.
+11/05/2022 07:28:31 PM Test_001_Home Page Title Verified
+11/05/2022 07:32:08 PM Chromedriver is already installed.
+11/05/2022 07:32:10 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:32:13 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:38:15 PM Chromedriver is already installed.
+11/05/2022 07:38:18 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:38:21 PM ***** Test 1 :Login page Title is Incorrect *****
+11/05/2022 07:38:23 PM Chromedriver is already installed.
+11/05/2022 07:38:25 PM Test_001_Home Page Title Verified
+11/05/2022 07:41:16 PM Chromedriver is already installed.
+11/05/2022 07:41:18 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:41:21 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 07:41:22 PM Chromedriver is already installed.
+11/05/2022 07:41:25 PM Test_001_Home Page Title Verified
+11/05/2022 07:41:46 PM Chromedriver is already installed.
+11/05/2022 07:41:49 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:41:52 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 07:41:54 PM Chromedriver is already installed.
+11/05/2022 07:41:56 PM Test_001_Home Page Title Verified
+11/05/2022 07:43:03 PM Chromedriver is already installed.
+11/05/2022 07:43:06 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:43:10 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 07:43:11 PM Chromedriver is already installed.
+11/05/2022 07:43:14 PM Test_001_Home Page Title Verified
+11/05/2022 07:47:08 PM Chromedriver is already installed.
+11/05/2022 07:47:10 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 07:47:13 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 07:47:16 PM Chromedriver is already installed.
+11/05/2022 07:47:18 PM Test_001_Home Page Title Verified
+11/05/2022 09:37:25 PM Downloading chromedriver (107.0.5304.18)...
+11/05/2022 09:37:28 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 09:37:31 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 09:37:33 PM Chromedriver is already installed.
+11/05/2022 09:37:35 PM Test_001_Home Page Title Verified
+11/05/2022 10:09:29 PM ====== WebDriver manager ======
+11/05/2022 10:09:33 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 10:09:37 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/05/2022 10:09:42 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 10:09:47 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 10:09:47 PM ====== WebDriver manager ======
+11/05/2022 10:09:50 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 10:09:53 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/05/2022 10:09:58 PM Test_001_Home Page Title Verified
+11/05/2022 10:19:13 PM xdist worker is: gw1
+11/05/2022 10:19:13 PM ====== WebDriver manager ======
+11/05/2022 10:19:18 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 10:19:18 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 10:19:24 PM There is no [win64] edgedriver for browser 107.0.1418 in cache
+11/05/2022 10:19:24 PM About to download new driver from https://msedgedriver.azureedge.net/107.0.1418.35/edgedriver_win64.zip
+11/05/2022 10:19:24 PM There is no [win64] edgedriver for browser 107.0.1418 in cache
+11/05/2022 10:19:24 PM About to download new driver from https://msedgedriver.azureedge.net/107.0.1418.35/edgedriver_win64.zip
+11/05/2022 10:19:34 PM Driver has been saved in cache [C:\Users\achal\.wdm\gw1\drivers\edgedriver\win64\107.0.1418]
+11/05/2022 10:19:36 PM Driver has been saved in cache [C:\Users\achal\.wdm\gw0\drivers\edgedriver\win64\107.0.1418]
+11/05/2022 10:19:38 PM Test_001_Home Page Title Verified
+11/05/2022 10:19:41 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 10:19:44 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 10:21:13 PM ====== WebDriver manager ======
+11/05/2022 10:21:16 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:21:19 PM There is no [win32] chromedriver for browser 107.0.5304 in cache
+11/05/2022 10:21:19 PM About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+11/05/2022 10:21:23 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304]
+11/05/2022 10:21:27 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 10:21:28 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 10:21:28 PM ====== WebDriver manager ======
+11/05/2022 10:21:32 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:21:35 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 10:21:37 PM Test_001_Home Page Title Verified
+11/05/2022 10:23:11 PM xdist worker is: gw1
+11/05/2022 10:23:11 PM ====== WebDriver manager ======
+11/05/2022 10:23:11 PM ====== WebDriver manager ======
+11/05/2022 10:23:16 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:23:16 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:23:21 PM There is no [win32] chromedriver for browser 107.0.5304 in cache
+11/05/2022 10:23:21 PM About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+11/05/2022 10:23:21 PM There is no [win32] chromedriver for browser 107.0.5304 in cache
+11/05/2022 10:23:21 PM About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+11/05/2022 10:23:30 PM Driver has been saved in cache [C:\Users\achal\.wdm\gw0\drivers\chromedriver\win32\107.0.5304]
+11/05/2022 10:23:31 PM Driver has been saved in cache [C:\Users\achal\.wdm\gw1\drivers\chromedriver\win32\107.0.5304]
+11/05/2022 10:23:33 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 10:23:36 PM Test_001_Home Page Title Verified
+11/05/2022 10:23:37 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 10:33:01 PM xdist worker is: gw1
+11/05/2022 10:33:01 PM ====== WebDriver manager ======
+11/05/2022 10:33:01 PM ====== WebDriver manager ======
+11/05/2022 10:33:06 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:33:06 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:33:14 PM Driver [C:\Users\achal\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 10:33:14 PM Driver [C:\Users\achal\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 10:33:17 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 10:33:18 PM Test_001_Home Page Title Verified
+11/05/2022 10:33:22 PM ***** Test 1 :Login page Title is Correct *****
+11/05/2022 10:58:16 PM xdist worker is: gw0
+11/05/2022 10:58:16 PM ====== WebDriver manager ======
+11/05/2022 10:58:16 PM ====== WebDriver manager ======
+11/05/2022 10:58:18 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:58:18 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 10:58:19 PM Driver [C:\Users\achal\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 10:58:19 PM Driver [C:\Users\achal\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 10:58:22 PM ***** START Test 02: Dashboad Page title verification *****
+11/05/2022 10:58:22 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 10:58:26 PM ***** Test 1 PASS: Login page Title is Correct *****
+11/05/2022 10:58:30 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+11/05/2022 10:59:50 PM ====== WebDriver manager ======
+11/05/2022 10:59:52 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 10:59:55 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/05/2022 10:59:59 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 11:00:03 PM ***** Test 1 PASS: Login page Title is Correct *****
+11/05/2022 11:00:03 PM ====== WebDriver manager ======
+11/05/2022 11:00:05 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 11:00:06 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/05/2022 11:00:10 PM ***** START Test 02: Dashboad Page title verification *****
+11/05/2022 11:00:20 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+11/05/2022 11:04:28 PM ====== WebDriver manager ======
+11/05/2022 11:04:30 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 11:04:32 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/05/2022 11:04:36 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 11:04:40 PM ***** Test 01 PASS: Login page Title is Correct *****
+11/05/2022 11:04:40 PM ====== WebDriver manager ======
+11/05/2022 11:04:41 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/05/2022 11:04:43 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/05/2022 11:04:47 PM ***** START Test 02: Dashboad Page title verification *****
+11/05/2022 11:04:56 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+11/05/2022 11:13:30 PM ====== WebDriver manager ======
+11/05/2022 11:13:31 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 11:13:33 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 11:13:37 PM ***** START Test 01: Login Page title verification *****
+11/05/2022 11:13:39 PM ***** Test 01 PASS: Login page Title is Correct *****
+11/05/2022 11:13:40 PM ====== WebDriver manager ======
+11/05/2022 11:13:40 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/05/2022 11:13:42 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/05/2022 11:13:43 PM ***** START Test 02: Dashboad Page title verification *****
+11/05/2022 11:13:53 PM ***** Test 02 PASS: Dashboard Page title is expected *****
