@@ -32,7 +32,7 @@ class Test_001_Login:
             self.driver.close()
             assert True
         else:
-            self.driver.save_screenshot(self.ReadConfig.getLoginscreenshot()+ '/Login.png')
+            self.driver.save_screenshot(ReadConfig.getLoginscreenshot()+ '/Login.png')
             self.logger.info("***** Test 01 FAIL: Login page Title is Incorrect *****")
             print("LoginPage Title is incorrect")
             self.driver.close()
@@ -57,7 +57,7 @@ class Test_001_Login:
             print( "Home Page Title is as expected")
             self.driver.close()
         else:
-            self.driver.save_screenshot(self.ReadConfig.getDashboardscreenshot()+ '/Dashboard.png')
+            self.driver.save_screenshot(ReadConfig.getDashboardscreenshot()+ '/Dashboard.png')
             print("Test 02 FAIL: Dashboard Title is not as expected")
             self.driver.close()
             assert False
@@ -67,9 +67,9 @@ class Test_001_Login:
 
 
 """"
-Run One : pytest -s -v testCases/test_Login.py --browser chrome 
-Run parallel :pytest -v -n=2 testCases/test_Login.py 
-Run  :for HTML reports pytest -v -n=2 --html=Reports/report.html testCases/test_Login.py --browser chrome 
+Run One : pytest -s -v testCases/test_login.py --browser chrome 
+Run parallel :pytest -v -n=2 testCases/test_login.py 
+Run  :for HTML reports pytest -v -n=2 --html=Reports/report.html testCases/test_login.py --browser chrome 
 
 
 
