@@ -260,3 +260,163 @@
 11/05/2022 11:13:42 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
 11/05/2022 11:13:43 PM ***** START Test 02: Dashboad Page title verification *****
 11/05/2022 11:13:53 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+11/06/2022 11:31:33 PM ====== WebDriver manager ======
+11/06/2022 11:31:36 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:31:40 PM About to download new driver from https://msedgedriver.azureedge.net/107.0.1418.35/edgedriver_win64.zip
+11/06/2022 11:31:44 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418]
+11/06/2022 11:32:10 PM ====== WebDriver manager ======
+11/06/2022 11:32:12 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:32:16 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:32:22 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:32:26 PM ***** Test 01 PASS: Login page Title is Correct *****
+11/06/2022 11:33:59 PM ====== WebDriver manager ======
+11/06/2022 11:34:01 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:34:04 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:34:11 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:35:35 PM ====== WebDriver manager ======
+11/06/2022 11:35:36 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:35:40 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:35:44 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:36:46 PM ====== WebDriver manager ======
+11/06/2022 11:36:47 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:36:49 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:36:54 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:38:05 PM ====== WebDriver manager ======
+11/06/2022 11:38:06 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:38:10 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:38:15 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:38:17 PM ====== WebDriver manager ======
+11/06/2022 11:38:19 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:38:21 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:38:26 PM ***** START Test 02: Dashboad Page title verification *****
+11/06/2022 11:38:34 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+11/06/2022 11:38:49 PM ====== WebDriver manager ======
+11/06/2022 11:38:51 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:38:54 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:38:58 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:39:00 PM ====== WebDriver manager ======
+11/06/2022 11:39:02 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:39:04 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:39:09 PM ***** START Test 02: Dashboad Page title verification *****
+11/06/2022 11:40:38 PM ====== WebDriver manager ======
+11/06/2022 11:40:40 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:40:43 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:40:48 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:40:51 PM ====== WebDriver manager ======
+11/06/2022 11:40:53 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:40:55 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:41:00 PM ***** START Test 02: Dashboad Page title verification *****
+11/06/2022 11:44:32 PM ====== WebDriver manager ======
+11/06/2022 11:44:34 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:44:38 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:44:43 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:44:48 PM ====== WebDriver manager ======
+11/06/2022 11:44:53 PM Get LATEST edgedriver version for 107.0.1418 Edge
+11/06/2022 11:44:55 PM Driver [C:\Users\achal\.wdm\drivers\edgedriver\win64\107.0.1418\msedgedriver.exe] found in cache
+11/06/2022 11:45:01 PM ***** START Test 02: Dashboad Page title verification *****
+11/06/2022 11:45:47 PM ====== WebDriver manager ======
+11/06/2022 11:45:49 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/06/2022 11:45:51 PM About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+11/06/2022 11:45:54 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304]
+11/06/2022 11:46:20 PM ====== WebDriver manager ======
+11/06/2022 11:46:21 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/06/2022 11:46:23 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/06/2022 11:46:26 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:46:31 PM ====== WebDriver manager ======
+11/06/2022 11:46:33 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/06/2022 11:46:34 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/06/2022 11:46:37 PM ***** START Test 02: Dashboad Page title verification *****
+11/06/2022 11:52:09 PM ====== WebDriver manager ======
+11/06/2022 11:52:10 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/06/2022 11:52:12 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/06/2022 11:52:15 PM ***** START Test 01: Login Page title verification *****
+11/06/2022 11:52:19 PM ***** Test 01 FAIL: Login page Title is Incorrect *****
+11/06/2022 11:52:21 PM ====== WebDriver manager ======
+11/06/2022 11:52:23 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/06/2022 11:52:24 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/06/2022 11:52:26 PM ***** START Test 02: Dashboad Page title verification *****
+11/12/2022 07:01:48 PM ====== WebDriver manager ======
+11/12/2022 07:01:50 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/12/2022 07:01:52 PM About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+11/12/2022 07:01:56 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304]
+11/12/2022 07:02:19 PM ====== WebDriver manager ======
+11/12/2022 07:02:21 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/12/2022 07:02:23 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/12/2022 07:02:26 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+11/12/2022 07:02:30 PM *****  Read Username from sheet *****
+11/12/2022 07:02:31 PM *****  Read Password from sheet ******
+11/12/2022 07:02:31 PM ***** Read Expected from sheet ******
+11/12/2022 07:04:21 PM ====== WebDriver manager ======
+11/12/2022 07:04:23 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/12/2022 07:04:25 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/12/2022 07:04:27 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+11/12/2022 07:04:30 PM *****  Read Username from sheet *****
+11/12/2022 07:04:30 PM *****  Read Password from sheet ******
+11/12/2022 07:04:30 PM ***** Read Expected from sheet ******
+11/12/2022 07:04:43 PM *****  PASS: Dashboard title is expected  ***** 
+11/12/2022 07:04:45 PM *****  Read Username from sheet *****
+11/12/2022 07:04:45 PM *****  Read Password from sheet ******
+11/12/2022 07:04:45 PM ***** Read Expected from sheet ******
+11/12/2022 07:04:55 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+11/12/2022 07:04:55 PM *****  Read Username from sheet *****
+11/12/2022 07:04:55 PM *****  Read Password from sheet ******
+11/12/2022 07:04:55 PM ***** Read Expected from sheet ******
+11/12/2022 07:05:04 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+11/12/2022 07:05:04 PM *****  Read Username from sheet *****
+11/12/2022 07:05:04 PM *****  Read Password from sheet ******
+11/12/2022 07:05:04 PM ***** Read Expected from sheet ******
+11/12/2022 07:05:14 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+11/12/2022 07:05:14 PM ***** End of DDT Testing *****
+11/12/2022 07:05:14 PM ***** Completed test_Login_DDT *****
+11/12/2022 07:06:28 PM ====== WebDriver manager ======
+11/12/2022 07:06:30 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/12/2022 07:06:32 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/12/2022 07:06:34 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+11/12/2022 07:06:38 PM *****  Read Username from sheet *****
+11/12/2022 07:06:38 PM *****  Read Password from sheet ******
+11/12/2022 07:06:38 PM ***** Read Expected from sheet ******
+11/12/2022 07:10:09 PM ====== WebDriver manager ======
+11/12/2022 07:10:10 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/12/2022 07:10:13 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/12/2022 07:10:16 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+11/12/2022 07:10:21 PM *****  Read Username from sheet *****
+11/12/2022 07:10:21 PM *****  Read Password from sheet ******
+11/12/2022 07:10:21 PM ***** Read Expected from sheet ******
+11/12/2022 07:10:38 PM *****  PASS: Dashboard title is expected  ***** 
+11/12/2022 07:10:41 PM *****  Read Username from sheet *****
+11/12/2022 07:10:41 PM *****  Read Password from sheet ******
+11/12/2022 07:10:41 PM ***** Read Expected from sheet ******
+11/12/2022 07:10:50 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+11/12/2022 07:10:50 PM *****  Read Username from sheet *****
+11/12/2022 07:10:50 PM *****  Read Password from sheet ******
+11/12/2022 07:10:50 PM ***** Read Expected from sheet ******
+11/12/2022 07:10:59 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+11/12/2022 07:10:59 PM *****  Read Username from sheet *****
+11/12/2022 07:10:59 PM *****  Read Password from sheet ******
+11/12/2022 07:10:59 PM ***** Read Expected from sheet ******
+11/12/2022 07:11:09 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+11/12/2022 07:11:09 PM ***** End of DDT Testing *****
+11/12/2022 07:11:09 PM ***** Completed test_Login_DDT *****
+11/12/2022 07:20:42 PM ====== WebDriver manager ======
+11/12/2022 07:20:44 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+11/12/2022 07:20:46 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+11/12/2022 07:20:48 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+11/12/2022 07:20:48 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+11/12/2022 07:20:51 PM *****    Read Username from sheet    *****
+11/12/2022 07:20:51 PM *****    Read Password from sheet    ******
+11/12/2022 07:20:51 PM *****    Read Expected from sheet    ******
+11/12/2022 07:21:04 PM *****   PASS: Dashboard title is correct   ***** 
+11/12/2022 07:21:07 PM *****    Read Username from sheet    *****
+11/12/2022 07:21:07 PM *****    Read Password from sheet    ******
+11/12/2022 07:21:07 PM *****    Read Expected from sheet    ******
+11/12/2022 07:21:16 PM ***** FAIL: Dashboard title is not correct,status is 'FAIL'  ***** 
+11/12/2022 07:21:16 PM *****    Read Username from sheet    *****
+11/12/2022 07:21:16 PM *****    Read Password from sheet    ******
+11/12/2022 07:21:16 PM *****    Read Expected from sheet    ******
+11/12/2022 07:21:26 PM ***** FAIL: Dashboard title is not correct,status is 'FAIL'  ***** 
+11/12/2022 07:21:26 PM *****    Read Username from sheet    *****
+11/12/2022 07:21:26 PM *****    Read Password from sheet    ******
+11/12/2022 07:21:26 PM *****    Read Expected from sheet    ******
+11/12/2022 07:21:35 PM ***** FAIL: Dashboard title is not correct,status is 'FAIL'  ***** 
+11/12/2022 07:21:35 PM *****    End of DDT Testing       *****
+11/12/2022 07:21:35 PM *****    Completed Test_001_Login_DDT    *****
