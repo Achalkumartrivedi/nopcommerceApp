@@ -53,17 +53,17 @@ class Test_001_Login_DDT:
             act_title = self.driver.title
             if act_title == "Dashboard / nopCommerce administration":
                 if self.exp == "Pass":
-                    self.logger.info("*****   PASS: Dashboard title is correct, status is 'PASS'   ***** ")
+                    self.logger.info("*****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** ")
                     self.lp.clickLogout()
                 elif self.exp == "Fail":
-                    self.logger.info("*****   FAIL: Dashboard title is correct but status is 'FAIL'  ******")
+                    self.logger.info("*****   FAIL: Valid Login ,Dashboard title is correct , status is 'FAIL'  ******")
                     self.lp.clickLogout()
             else:
                 if self.exp == "Pass":
-                    self.logger.info("******** PASS: Dashboard title is not correct but status is 'PASS' ****** ")
+                    self.logger.info("******** PASS: Invalid Login , status is 'PASS' ****** ")
                 elif self.exp == "Fail":
-                    self.logger.info("***** FAIL: Dashboard title is not correct, status is 'FAIL'  ***** ")
-                    #self.driver.save_screenshot(Readconfig.getlogindirectory() + '/Login_DDT.png')
+                    self.logger.info("***** FAIL: Invalid Login, status is 'FAIL'  ***** ")
+                    self.driver.save_screenshot(ReadConfig.getDDTscreenshot() + '/Login_DDT.png')
 
         self.logger.info("*****    End of DDT Testing       *****")
         self.logger.info("*****    Completed Test_001_Login_DDT    *****")

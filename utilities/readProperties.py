@@ -59,6 +59,15 @@ class ReadConfig():
         os.makedirs(NewFolder)
         return NewFolder
 
+    @staticmethod
+    def getDDTscreenshot():
+        path = config.get('common info', 'ss_ddt')
+        DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+        os.chdir(path)
+        NewFolder = 'Test_DDT_' + DateString
+        os.makedirs(NewFolder)
+        return NewFolder
+
 
 """
 It is for common screenshot folder
