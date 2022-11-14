@@ -64,8 +64,11 @@ class AddCustomer:
         self.driver.find_element(By.XPATH, self.txtLastname_xpath).clear()
         self.driver.find_element(By.XPATH, self.txtLastname_xpath).send_keys(lastname)
 
-    def clickOnMaleGender(self):
-        self.driver.find_element(By.ID, self.rdMaleGender_id).click()
+    def clickOnGender(self,gender):
+        if gender == 'Male':
+           self.driver.find_element(By.ID, self.rdMaleGender_id).click()
+        elif gender == 'Female':
+            self.driver.find_element(By.ID, self.rdFemaleGender_id).click()
 
     def clickOnFemaleGender(self):
         self.driver.find_element(By.ID, self.rdFemaleGender_id).click()
@@ -86,8 +89,8 @@ class AddCustomer:
         elif role == 'Administrators':
             self.listitem = self.driver.find_element(By.XPATH,self.lst_Administrator_xpath)
         elif role == 'Guests':
+            # Here user can be Registered or Geust, only one
             self.driver.find_element(By.XPATH,"//span[@title='delete']").click()
-            # "//*[@id='SelectedCustomerRoleIds_taglist']/li/span[2]"
             self.listitem = self.driver.find_element(By.XPATH,self.lst_Guest_xpath)
         elif role == 'Registered':
             self.listitem = self.driver.find_element(By.XPATH, self.lst_Registered_xpath)
