@@ -82,3 +82,8 @@ class Test_003_AddnewCustomer:
 
 def random_generator(size=8,chars=string.ascii_lowercase+ string.digits):
     return ''.join(random.choice(chars) for x in range(size))
+
+#create user define  function for Generate random email id
+#generate 8 character wit lowercase plus digit
+#for loop -return -> range size 8 ,initially X value 1 it will generate 1 char randomly
+# ..so on for loop till 8 char after it will return all 8 random character (lowercase+digit) 
