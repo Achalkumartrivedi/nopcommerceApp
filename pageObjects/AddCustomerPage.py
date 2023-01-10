@@ -89,7 +89,7 @@ class AddCustomer:
         elif role == 'Administrators':
             self.listitem = self.driver.find_element(By.XPATH,self.lst_Administrator_xpath)
         elif role == 'Guests':
-            # Here user can be Registered or Geust, only one
+            # Here user can be Registered or Guest, only one
             self.driver.find_element(By.XPATH,"//span[@title='delete']").click()
             self.listitem = self.driver.find_element(By.XPATH,self.lst_Guest_xpath)
         elif role == 'Registered':
@@ -100,6 +100,9 @@ class AddCustomer:
             self.listitem = self.driver.find_element(By.XPATH, self.lst_Guest_xpath)
         time.sleep(3)
         self.driver.execute_script("arguments[0].click();", self.listitem)
+        #self.listitem - click action not working on listitem so it is alternative approach
+        # we execute script method or it called with javascript statement
+        # first argument for click , second method is for select value for list
 
     def setManagerOfVender(self,value):
         drp = Select(self.driver.find_element(By.XPATH,self.drp_ManagerVendor_xpath))

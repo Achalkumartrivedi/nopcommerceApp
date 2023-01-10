@@ -42,6 +42,11 @@ class ReadConfig():
         return password
 
     @staticmethod
+    def getEmail():
+        mail = config.get('common info', 'email')
+        return mail
+
+    @staticmethod
     def getLoginscreenshot():
         path = config.get('common info', 'ss_loginpage')
         DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
