@@ -710,3 +710,426 @@
 11/14/2022 10:43:18 PM *****   successful message verification started   *****
 11/14/2022 10:43:18 PM *****   Add Customer Test Passed    *****
 11/14/2022 10:43:19 PM *****    ENDING of Test 03:Add New Customer    *****
+12/09/2022 09:19:29 PM ====== WebDriver manager ======
+12/09/2022 09:19:37 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+12/09/2022 09:19:41 PM About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+12/09/2022 09:20:10 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304]
+12/09/2022 09:20:15 PM ***** START Test 01: Login Page title verification *****
+12/09/2022 09:20:20 PM ***** Test 01 PASS: Login page Title is Correct *****
+12/09/2022 09:20:22 PM ====== WebDriver manager ======
+12/09/2022 09:20:26 PM Get LATEST chromedriver version for google-chrome 107.0.5304
+12/09/2022 09:20:33 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+12/09/2022 09:20:37 PM ***** START Test 02: Dashboad Page title verification *****
+12/09/2022 09:20:46 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+12/09/2022 09:21:25 PM ====== WebDriver manager ======
+12/09/2022 09:21:31 PM Get LATEST geckodriver version for 107.0 firefox
+12/09/2022 09:21:36 PM There is no [win64] geckodriver for browser 107.0 in cache
+12/09/2022 09:21:36 PM Getting latest mozilla release info for v0.32.0
+12/09/2022 09:21:37 PM About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-win64.zip
+12/09/2022 09:21:45 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\geckodriver\win64\0.32]
+12/09/2022 09:21:51 PM ====== WebDriver manager ======
+12/09/2022 09:21:55 PM Get LATEST geckodriver version for 107.0 firefox
+12/09/2022 09:22:04 PM Driver [C:\Users\achal\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+12/09/2022 09:22:19 PM ***** START Test 02: Dashboad Page title verification *****
+12/09/2022 09:22:24 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+12/09/2022 09:24:14 PM ====== WebDriver manager ======
+12/09/2022 09:24:18 PM Get LATEST geckodriver version for 107.0 firefox
+12/09/2022 09:24:23 PM Driver [C:\Users\achal\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+12/09/2022 09:24:35 PM ***** START Test 01: Login Page title verification *****
+12/09/2022 09:24:38 PM ***** Test 01 PASS: Login page Title is Correct *****
+12/09/2022 09:24:40 PM ====== WebDriver manager ======
+12/09/2022 09:24:44 PM Get LATEST geckodriver version for 107.0 firefox
+12/09/2022 09:24:49 PM Driver [C:\Users\achal\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+12/09/2022 09:24:59 PM ***** START Test 02: Dashboad Page title verification *****
+12/09/2022 09:25:06 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+01/08/2023 05:50:54 PM ====== WebDriver manager ======
+01/08/2023 05:51:02 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 05:51:10 PM There is no [win32] chromedriver for browser 108.0.5359 in cache
+01/08/2023 05:51:10 PM About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+01/08/2023 05:51:16 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359]
+01/08/2023 05:51:55 PM ====== WebDriver manager ======
+01/08/2023 05:51:59 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 05:52:05 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 05:52:08 PM *****  Start Test03 : Add New Customer  *****
+01/08/2023 05:52:17 PM *****   Login successful   *****
+01/08/2023 05:52:20 PM *****   Going to Add New Customer form  *****
+01/08/2023 05:52:25 PM *****    Starting customer form filling   *****
+01/08/2023 05:52:38 PM *****   Saving customer info   *****
+01/08/2023 05:52:38 PM *****   successful message verification started   *****
+01/08/2023 05:52:38 PM *****   Add Customer Test Passed    *****
+01/08/2023 05:52:38 PM *****    ENDING of Test 03:Add New Customer    *****
+01/08/2023 11:00:24 PM ====== WebDriver manager ======
+01/08/2023 11:00:31 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:00:35 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:00:39 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/08/2023 11:00:39 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+01/08/2023 11:02:21 PM ====== WebDriver manager ======
+01/08/2023 11:02:25 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:02:29 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:02:33 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/08/2023 11:05:45 PM ====== WebDriver manager ======
+01/08/2023 11:05:49 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:05:53 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:05:56 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/08/2023 11:06:25 PM ====== WebDriver manager ======
+01/08/2023 11:06:29 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:06:33 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:06:35 PM ***** START Test 01: Login Page title verification *****
+01/08/2023 11:06:39 PM ***** Test 01 PASS: Login page Title is Correct *****
+01/08/2023 11:06:39 PM ====== WebDriver manager ======
+01/08/2023 11:06:43 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:06:46 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:06:48 PM ***** START Test 02: Dashboad Page title verification *****
+01/08/2023 11:07:10 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+01/08/2023 11:09:30 PM ====== WebDriver manager ======
+01/08/2023 11:09:34 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:09:37 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:09:40 PM ***** START Test 01: Login Page title verification *****
+01/08/2023 11:09:44 PM ====== WebDriver manager ======
+01/08/2023 11:09:48 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:09:53 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:09:55 PM ***** START Test 02: Dashboad Page title verification *****
+01/08/2023 11:09:57 PM ====== WebDriver manager ======
+01/08/2023 11:10:01 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:10:05 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:10:07 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/08/2023 11:10:13 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+01/08/2023 11:14:52 PM ====== WebDriver manager ======
+01/08/2023 11:14:56 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:15:00 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:15:02 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/08/2023 11:16:38 PM ====== WebDriver manager ======
+01/08/2023 11:16:43 PM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/08/2023 11:16:46 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/08/2023 11:16:49 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/09/2023 08:00:19 AM ====== WebDriver manager ======
+01/09/2023 08:00:23 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:00:27 AM About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+01/09/2023 08:00:33 AM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359]
+01/09/2023 08:01:21 AM ====== WebDriver manager ======
+01/09/2023 08:01:25 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:01:29 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:01:32 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+01/09/2023 08:01:40 AM ***** Login Successful  *****
+01/09/2023 08:01:40 AM ***** S  **** Starting Search Customer By Email*
+01/09/2023 08:01:43 AM ***** Entered email in field  *****
+01/09/2023 08:01:43 AM ***** Click on Search button  *****
+01/09/2023 08:03:48 AM ====== WebDriver manager ======
+01/09/2023 08:03:51 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:03:56 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:03:59 AM ***** START : Test_04 Searching Customer by email *****
+01/09/2023 08:04:09 AM ***** Login Successful  *****
+01/09/2023 08:04:09 AM ***** S  **** Starting Search Customer By Email*
+01/09/2023 08:04:12 AM ***** Entered email in field  *****
+01/09/2023 08:04:13 AM ***** Click on Search button  *****
+01/09/2023 08:15:46 AM ====== WebDriver manager ======
+01/09/2023 08:15:50 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:15:55 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:15:58 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:16:05 AM ***** Login Successful  *****
+01/09/2023 08:16:05 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:16:08 AM ***** Entered email in field  *****
+01/09/2023 08:16:08 AM ***** Click on Search button  *****
+01/09/2023 08:20:27 AM ====== WebDriver manager ======
+01/09/2023 08:20:32 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:20:35 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:20:38 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:20:45 AM ***** Login Successful  *****
+01/09/2023 08:20:45 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:20:48 AM ***** Entered email in field  *****
+01/09/2023 08:20:48 AM ***** Click on Search button  *****
+01/09/2023 08:21:24 AM ====== WebDriver manager ======
+01/09/2023 08:21:27 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:21:30 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:21:33 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:21:41 AM ***** Login Successful  *****
+01/09/2023 08:21:41 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:21:43 AM ***** Entered email in field  *****
+01/09/2023 08:21:43 AM ***** Click on Search button  *****
+01/09/2023 08:28:13 AM ====== WebDriver manager ======
+01/09/2023 08:28:17 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:28:21 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:28:23 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:28:32 AM ***** Login Successful  *****
+01/09/2023 08:28:32 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:28:35 AM ***** Entered email in field  *****
+01/09/2023 08:28:35 AM ***** Click on Search button  *****
+01/09/2023 08:36:48 AM ====== WebDriver manager ======
+01/09/2023 08:36:51 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:36:55 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:36:58 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:37:08 AM ***** Login Successful  *****
+01/09/2023 08:37:08 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:37:12 AM ***** Entered email in field  *****
+01/09/2023 08:37:12 AM ***** Click on Search button  *****
+01/09/2023 08:39:32 AM ====== WebDriver manager ======
+01/09/2023 08:39:36 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:39:40 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:39:43 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:39:50 AM ***** Login Successful  *****
+01/09/2023 08:39:50 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:39:53 AM ***** Entered email in field  *****
+01/09/2023 08:39:53 AM ***** Click on Search button  *****
+01/09/2023 08:41:07 AM ====== WebDriver manager ======
+01/09/2023 08:41:11 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:41:15 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:41:17 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:41:27 AM ***** Login Successful  *****
+01/09/2023 08:41:27 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:41:30 AM ***** Entered email in field  *****
+01/09/2023 08:41:30 AM ***** Click on Search button  *****
+01/09/2023 08:42:12 AM ====== WebDriver manager ======
+01/09/2023 08:42:15 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:42:20 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:42:23 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:42:31 AM ***** Login Successful  *****
+01/09/2023 08:42:31 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:42:34 AM ***** Entered email in field  *****
+01/09/2023 08:42:34 AM ***** Click on Search button  *****
+01/09/2023 08:43:14 AM ====== WebDriver manager ======
+01/09/2023 08:43:18 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:43:21 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:43:24 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:43:34 AM ***** Login Successful  *****
+01/09/2023 08:43:34 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:43:37 AM ***** Entered email in field  *****
+01/09/2023 08:43:37 AM ***** Click on Search button  *****
+01/09/2023 08:50:09 AM ====== WebDriver manager ======
+01/09/2023 08:50:12 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:50:18 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:50:21 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:50:30 AM ***** Login Successful  *****
+01/09/2023 08:50:30 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:50:32 AM ***** Entered email in field  *****
+01/09/2023 08:50:32 AM ***** Click on Search button  *****
+01/09/2023 08:50:37 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 08:53:47 AM ====== WebDriver manager ======
+01/09/2023 08:53:50 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 08:53:55 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 08:53:58 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 08:54:08 AM ***** Login Successful  *****
+01/09/2023 08:54:08 AM ***** Starting Search Customer By Email *****
+01/09/2023 08:54:10 AM ***** Entered email in field  *****
+01/09/2023 08:54:10 AM ***** Click on Search button  *****
+01/09/2023 08:54:15 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:02:36 AM ====== WebDriver manager ======
+01/09/2023 09:02:40 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:02:44 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:02:46 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:02:56 AM ***** Login Successful  *****
+01/09/2023 09:02:56 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:02:59 AM ***** Entered email in field  *****
+01/09/2023 09:02:59 AM ***** Click on Search button  *****
+01/09/2023 09:03:04 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:05:43 AM ====== WebDriver manager ======
+01/09/2023 09:05:47 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:05:50 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:05:52 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:06:02 AM ***** Login Successful  *****
+01/09/2023 09:06:02 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:06:05 AM ***** Entered email in field  *****
+01/09/2023 09:06:05 AM ***** Click on Search button  *****
+01/09/2023 09:06:10 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:07:14 AM ====== WebDriver manager ======
+01/09/2023 09:07:17 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:07:22 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:07:24 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:07:30 AM ***** Login Successful  *****
+01/09/2023 09:07:30 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:07:33 AM ***** Entered email in field  *****
+01/09/2023 09:07:33 AM ***** Click on Search button  *****
+01/09/2023 09:08:27 AM ====== WebDriver manager ======
+01/09/2023 09:08:31 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:08:34 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:08:37 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:08:46 AM ***** Login Successful  *****
+01/09/2023 09:08:46 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:08:48 AM ***** Entered email in field  *****
+01/09/2023 09:08:49 AM ***** Click on Search button  *****
+01/09/2023 09:08:54 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:08:54 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:08:54 AM ***** Found email and entered email is equal *****
+01/09/2023 09:09:21 AM ====== WebDriver manager ======
+01/09/2023 09:09:25 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:09:29 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:09:33 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:09:42 AM ***** Login Successful  *****
+01/09/2023 09:09:42 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:09:45 AM ***** Entered email in field  *****
+01/09/2023 09:09:45 AM ***** Click on Search button  *****
+01/09/2023 09:09:50 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:09:50 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:09:50 AM ***** Found email and entered email is equal *****
+01/09/2023 09:10:55 AM ====== WebDriver manager ======
+01/09/2023 09:10:59 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:11:03 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:11:05 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:11:11 AM ***** Login Successful  *****
+01/09/2023 09:11:11 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:11:14 AM ***** Entered email in field  *****
+01/09/2023 09:11:14 AM ***** Click on Search button  *****
+01/09/2023 09:11:19 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:11:19 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:11:19 AM ***** Found email and entered email is equal *****
+01/09/2023 09:11:57 AM ====== WebDriver manager ======
+01/09/2023 09:12:00 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:12:04 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:12:07 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:12:15 AM ***** Login Successful  *****
+01/09/2023 09:12:15 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:12:18 AM ***** Entered email in field  *****
+01/09/2023 09:12:18 AM ***** Click on Search button  *****
+01/09/2023 09:12:23 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:12:23 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:12:23 AM ***** Found email and entered email is equal *****
+01/09/2023 09:17:38 AM ====== WebDriver manager ======
+01/09/2023 09:17:42 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:17:47 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:17:49 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:17:58 AM ***** Login Successful  *****
+01/09/2023 09:17:58 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:18:01 AM ***** Entered email in field  *****
+01/09/2023 09:18:01 AM ***** Click on Search button  *****
+01/09/2023 09:18:06 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:18:06 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:18:06 AM ***** Found email and entered email is equal *****
+01/09/2023 09:18:40 AM ====== WebDriver manager ======
+01/09/2023 09:18:43 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:18:48 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:18:50 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:18:58 AM ***** Login Successful  *****
+01/09/2023 09:18:58 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:19:01 AM ***** Entered email in field  *****
+01/09/2023 09:19:01 AM ***** Click on Search button  *****
+01/09/2023 09:19:06 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:19:06 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:19:06 AM ***** Found email and entered email is equal *****
+01/09/2023 09:20:08 AM ====== WebDriver manager ======
+01/09/2023 09:20:12 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/09/2023 09:20:17 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/09/2023 09:20:19 AM ***** START: SearchCustomerByEmail_004 *****
+01/09/2023 09:20:28 AM ***** Login Successful  *****
+01/09/2023 09:20:28 AM ***** Starting Search Customer By Email *****
+01/09/2023 09:20:31 AM ***** Entered email in field  *****
+01/09/2023 09:20:31 AM ***** Click on Search button  *****
+01/09/2023 09:20:36 AM ***** Searched element is found in table and stored in 'table' *****
+01/09/2023 09:20:36 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/09/2023 09:20:36 AM ***** Found email and entered email is equal *****
+01/09/2023 09:20:36 AM ***** Finsished: SearchCustomerByEmail_004 *****
+01/10/2023 05:21:49 AM ====== WebDriver manager ======
+01/10/2023 05:21:55 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:21:59 AM About to download new driver from https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_win32.zip
+01/10/2023 05:22:05 AM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359]
+01/10/2023 05:22:27 AM ====== WebDriver manager ======
+01/10/2023 05:22:31 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:22:37 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:22:41 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:22:50 AM ***** Login Successful  *****
+01/10/2023 05:22:50 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:22:53 AM ***** Entered email in field  *****
+01/10/2023 05:22:53 AM ***** Click on Search button  *****
+01/10/2023 05:22:58 AM ***** Searched element is found in table and stored in 'table' *****
+01/10/2023 05:22:58 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/10/2023 05:22:58 AM ***** Found email and entered email is equal *****
+01/10/2023 05:29:44 AM ====== WebDriver manager ======
+01/10/2023 05:29:49 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:29:53 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:29:56 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:30:05 AM ***** Login Successful  *****
+01/10/2023 05:30:05 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:30:08 AM ***** Entered email in field  *****
+01/10/2023 05:30:08 AM ***** Click on Search button  *****
+01/10/2023 05:30:13 AM ***** Searched element is found in table and stored in 'table' *****
+01/10/2023 05:30:13 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/10/2023 05:30:13 AM ***** Found email and entered email is equal *****
+01/10/2023 05:30:41 AM ====== WebDriver manager ======
+01/10/2023 05:30:45 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:30:50 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:30:52 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:31:01 AM ***** Login Successful  *****
+01/10/2023 05:31:01 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:31:04 AM ***** Entered email in field  *****
+01/10/2023 05:31:04 AM ***** Click on Search button  *****
+01/10/2023 05:31:09 AM ***** Searched element is found in table and stored in 'table' *****
+01/10/2023 05:31:09 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/10/2023 05:31:09 AM ***** Found email and entered email is equal *****
+01/10/2023 05:35:53 AM ====== WebDriver manager ======
+01/10/2023 05:35:57 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:36:04 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:36:07 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:36:17 AM ***** Login Successful  *****
+01/10/2023 05:36:17 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:36:19 AM ***** Entered email in field  *****
+01/10/2023 05:36:19 AM ***** Click on Search button  *****
+01/10/2023 05:36:24 AM ***** Searched element is found in table and stored in 'table' *****
+01/10/2023 05:36:24 AM ***** Search elememt is found in second column and store in 'emailid' *****
+01/10/2023 05:36:24 AM ***** Found email and entered email is equal *****
+01/10/2023 05:36:24 AM ***** Finsished: SearchCustomerByEmail_004 *****
+01/10/2023 05:42:17 AM ====== WebDriver manager ======
+01/10/2023 05:42:20 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:42:25 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:42:28 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:42:39 AM ***** Login Successful  *****
+01/10/2023 05:42:39 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:42:42 AM ***** Entered email in field  *****
+01/10/2023 05:42:42 AM ***** Click on Search button  *****
+01/10/2023 05:42:47 AM ***** POM > Element is found in table and stored in 'table' *****
+01/10/2023 05:42:47 AM ***** POM > Elememt is found in second column and store in 'emailid' *****
+01/10/2023 05:42:47 AM ***** POM > Found email is equal to the entered ..Return 'TRUE' Flag *****
+01/10/2023 05:42:47 AM ***** Finsished: SearchCustomerByEmail_004 *****
+01/10/2023 05:43:18 AM ====== WebDriver manager ======
+01/10/2023 05:43:21 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:43:24 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:43:26 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:43:33 AM ***** Login Successful  *****
+01/10/2023 05:43:33 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:43:36 AM ***** Entered email in field  *****
+01/10/2023 05:43:36 AM ***** Click on Search button  *****
+01/10/2023 05:43:41 AM ***** POM > Element is found in table and stored in 'table' *****
+01/10/2023 05:47:27 AM ====== WebDriver manager ======
+01/10/2023 05:47:31 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:47:36 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:47:38 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:47:46 AM ***** Login Successful  *****
+01/10/2023 05:47:46 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:47:49 AM ***** Entered email in field  *****
+01/10/2023 05:47:49 AM ***** Click on Search button  *****
+01/10/2023 05:49:29 AM ====== WebDriver manager ======
+01/10/2023 05:49:33 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:49:37 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:49:40 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:49:49 AM ***** Login Successful  *****
+01/10/2023 05:49:49 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:49:52 AM ***** Entered email in field  *****
+01/10/2023 05:49:52 AM ***** Click on Search button  *****
+01/10/2023 05:54:14 AM ====== WebDriver manager ======
+01/10/2023 05:54:17 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 05:54:21 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 05:54:24 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 05:54:34 AM ***** Login Successful  *****
+01/10/2023 05:54:34 AM ***** Starting Search Customer By Email *****
+01/10/2023 05:54:36 AM ***** Entered email in field  *****
+01/10/2023 05:54:36 AM ***** Click on Search button  *****
+01/10/2023 05:54:41 AM ***** Finsished: SearchCustomerByEmail_004 *****
+01/10/2023 06:14:55 AM ====== WebDriver manager ======
+01/10/2023 06:15:00 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 06:15:06 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 06:15:08 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 06:15:17 AM ***** Login Successful  *****
+01/10/2023 06:15:17 AM ***** Starting Search Customer By Email *****
+01/10/2023 06:15:20 AM ***** Entered email in field  *****
+01/10/2023 06:15:20 AM ***** Click on Search button  *****
+01/10/2023 06:15:25 AM ***** ***** Flag:False - TC FAIL: Searched email is not present in table *****  *****
+01/10/2023 06:15:25 AM ***** Finsished: SearchCustomerByEmail_004 *****
+01/10/2023 06:20:33 AM ====== WebDriver manager ======
+01/10/2023 06:20:37 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 06:20:42 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 06:20:44 AM ***** START: SearchCustomerByEmail_004 *****
+01/10/2023 06:20:53 AM ***** Login Successful  *****
+01/10/2023 06:20:53 AM ***** Starting Search Customer By Email *****
+01/10/2023 06:20:57 AM ***** Entered email in field  *****
+01/10/2023 06:20:57 AM ***** Click on Search button  *****
+01/10/2023 06:21:02 AM ***** POM > Start function - searchCustomerByEmail() *****
+01/10/2023 06:21:02 AM ***** POM > Entered email is not found in table ..Return 'False' Flag *****
+01/10/2023 06:21:02 AM ***** ***** Flag:False - TC FAIL: Searched email is not present in table *****  *****
+01/10/2023 06:21:02 AM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
