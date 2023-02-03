@@ -17,7 +17,7 @@ class Test_001_Login_DDT:
     path = r'C:\Users\achal\PycharmProjects\nopcommerceApp\Testdata\logintestdata.xlsx'
     logger = LogGenclass.loggenmethod() #call loggenmethod of LEggenClass
 
-
+    @pytest.mark.regression
     def test_DashboardPage(self, setup):
 
         self.logger.info("***** START : DATA DRIVEN TESTING OF LOGIN  *****")
@@ -31,7 +31,7 @@ class Test_001_Login_DDT:
         self.column = XLUtils.getColumCount(self.path, 'sheet1')
         print("No. of Column in test sheet: ", self.column)
 
-        lst_status = []
+
 
         for r in range(2, self.row + 1):
             self.user = XLUtils.readData(self.path, 'sheet1', r, 1)
@@ -63,7 +63,7 @@ class Test_001_Login_DDT:
                     self.logger.info("******** PASS: Invalid Login , status is 'PASS' ****** ")
                 elif self.exp == "Fail":
                     self.logger.info("***** FAIL: Invalid Login, status is 'FAIL'  ***** ")
-                    self.driver.save_screenshot(ReadConfig.getDDTscreenshot() + '/Login_DDT.png')
+                    #self.driver.save_screenshot(ReadConfig.getDDTscreenshot() +'/Login_DDT.png')
 
         self.logger.info("*****    End of DDT Testing       *****")
         self.logger.info("*****    Completed Test_001_Login_DDT    *****")
