@@ -17,8 +17,7 @@ class Test_001_Login:
 
     logger = LogGenclass.loggenmethod() #call loggenmethod of LEggenClass
 
-
-
+    @pytest.mark.regression
     def test_homePageTitle(self, setup):
 
         self.driver = setup
@@ -39,6 +38,8 @@ class Test_001_Login:
             assert False
 
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_DashboardPage(self, setup):
 
         self.logger.info("***** START Test 02: Dashboad Page title verification *****")
@@ -67,9 +68,15 @@ class Test_001_Login:
 
 
 """"
+RUN BY TERMINAL : 
 Run One : pytest -s -v testCases/test_login.py --browser chrome 
 Run parallel :pytest -v -n=2 testCases/test_login.py 
 Run  :for HTML reports pytest -v -n=2 --html=Reports/report.html testCases/test_login.py --browser chrome 
+Run sanity after marking:  pytest -s -v -m "sanity" 
+Run mehods which have both sanity and regresstion (only 1 executed): pytest -s -v -m "sanity and regression"
+Run methods which have one of them (all exexuted): pytest -s -v -m "sanity or regression"
+
+
 
 
 

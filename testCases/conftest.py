@@ -9,6 +9,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 # Edge
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.edge.service import Service as EdgeService
+import logging
 
 
 
@@ -21,11 +22,14 @@ def setup(browser):
       driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
       print("Firefox Browser is Launching.....")
    else:
-      driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-      print("Chrome Browser is Launching.....")
+      options = webdriver.ChromeOptions()
+      driver = webdriver.Chrome(options=options,service=Service(ChromeDriverManager().install()))
+      #options.add_argument("start-maximized") #for maximizes browser
+
    return driver
 
-#without 'service=Service' gives warning in terminal:- "DeprecationWarning: executable_path"
+#without 'service=Service' gives warning in terminal:- "DeprecationWarning: executable_path=r'C:\webdriver\chromedriver.exe'"
+
 
 def pytest_addoption(parser):
    parser.addoption("--browser") # This will get the value from CLI/hooks

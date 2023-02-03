@@ -1326,3 +1326,362 @@
 02/03/2023 10:56:57 PM ***** POM > Found email is equal to the entered ..Return 'True' Flag *****
 02/03/2023 10:56:57 PM ***** Flag:True - TC PASS: Searched email is present in table *****
 02/03/2023 10:56:57 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+02/03/2023 11:19:36 PM ====== WebDriver manager ======
+02/03/2023 11:19:41 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:19:46 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:19:49 PM ***** START Test 01: Login Page title verification *****
+02/03/2023 11:19:52 PM ***** Test 01 PASS: Login page Title is Correct *****
+02/03/2023 11:19:53 PM ====== WebDriver manager ======
+02/03/2023 11:19:56 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:20:01 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:20:04 PM ***** START Test 02: Dashboad Page title verification *****
+02/03/2023 11:20:12 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/03/2023 11:22:31 PM ====== WebDriver manager ======
+02/03/2023 11:22:35 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:22:39 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:22:41 PM ***** START Test 02: Dashboad Page title verification *****
+02/03/2023 11:22:51 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/03/2023 11:22:51 PM ====== WebDriver manager ======
+02/03/2023 11:22:55 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:22:59 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:23:02 PM *****  Start Test03 : Add New Customer  *****
+02/03/2023 11:23:08 PM *****   Login successful   *****
+02/03/2023 11:23:11 PM *****   Going to Add New Customer form  *****
+02/03/2023 11:23:17 PM *****    Starting customer form filling   *****
+02/03/2023 11:23:30 PM *****   Saving customer info   *****
+02/03/2023 11:23:30 PM *****   successful message verification started   *****
+02/03/2023 11:23:30 PM *****   Add Customer Test Passed    *****
+02/03/2023 11:23:30 PM *****    ENDING of Test 03:Add New Customer    *****
+02/03/2023 11:28:56 PM ====== WebDriver manager ======
+02/03/2023 11:29:00 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:29:05 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:29:08 PM ***** START Test 02: Dashboad Page title verification *****
+02/03/2023 11:29:18 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/03/2023 11:30:42 PM ====== WebDriver manager ======
+02/03/2023 11:30:46 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:30:51 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:30:54 PM ***** START Test 02: Dashboad Page title verification *****
+02/03/2023 11:31:07 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/03/2023 11:35:31 PM ====== WebDriver manager ======
+02/03/2023 11:35:35 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:35:40 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:35:43 PM ***** START Test 01: Login Page title verification *****
+02/03/2023 11:35:47 PM ***** Test 01 PASS: Login page Title is Correct *****
+02/03/2023 11:35:47 PM ====== WebDriver manager ======
+02/03/2023 11:35:50 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:35:55 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:35:58 PM ***** START Test 02: Dashboad Page title verification *****
+02/03/2023 11:36:10 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/03/2023 11:36:10 PM ====== WebDriver manager ======
+02/03/2023 11:36:13 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:36:18 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:36:20 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:36:20 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:36:24 PM *****    Read Username from sheet    *****
+02/03/2023 11:36:24 PM *****    Read Password from sheet    ******
+02/03/2023 11:36:24 PM *****    Read Expected from sheet    ******
+02/03/2023 11:36:38 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:36:40 PM *****    Read Username from sheet    *****
+02/03/2023 11:36:40 PM *****    Read Password from sheet    ******
+02/03/2023 11:36:40 PM *****    Read Expected from sheet    ******
+02/03/2023 11:36:50 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:36:51 PM ====== WebDriver manager ======
+02/03/2023 11:36:55 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:37:00 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:37:02 PM *****  Start Test03 : Add New Customer  *****
+02/03/2023 11:37:09 PM *****   Login successful   *****
+02/03/2023 11:37:12 PM *****   Going to Add New Customer form  *****
+02/03/2023 11:37:19 PM *****    Starting customer form filling   *****
+02/03/2023 11:37:31 PM *****   Saving customer info   *****
+02/03/2023 11:37:31 PM *****   successful message verification started   *****
+02/03/2023 11:37:31 PM *****   Add Customer Test Passed    *****
+02/03/2023 11:37:31 PM *****    ENDING of Test 03:Add New Customer    *****
+02/03/2023 11:37:31 PM ====== WebDriver manager ======
+02/03/2023 11:37:35 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:37:44 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:37:47 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 11:37:54 PM ***** Login Successful  *****
+02/03/2023 11:37:54 PM ***** Starting Search Customer By Email *****
+02/03/2023 11:37:57 PM ***** Entered email in field  *****
+02/03/2023 11:37:57 PM ***** Click on Search button  *****
+02/03/2023 11:38:02 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 11:38:02 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 11:38:02 PM ***** POM > Elememt is found in second column and store in 'emailid' *****
+02/03/2023 11:38:02 PM ***** POM > Found email is equal to the entered ..Return 'True' Flag *****
+02/03/2023 11:38:02 PM ***** Flag:True - TC PASS: Searched email is present in table *****
+02/03/2023 11:38:02 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+02/03/2023 11:38:03 PM ====== WebDriver manager ======
+02/03/2023 11:38:06 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:38:11 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:38:14 PM ***** START: SearchCustomerByName_005 *****
+02/03/2023 11:38:22 PM ***** Login Successful  *****
+02/03/2023 11:38:22 PM ***** Starting Search Customer By Name *****
+02/03/2023 11:38:25 PM ***** Entered FirstName in field  *****
+02/03/2023 11:38:25 PM ***** Click on Search button  *****
+02/03/2023 11:38:30 PM ***** POM > Start function - searchCustomerByName() *****
+02/03/2023 11:38:30 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 11:38:30 PM ***** POM > Elememt is found in third column and store in 'name' *****
+02/03/2023 11:38:30 PM ***** ***** Flag:True - TC PASS: Searched name is present in table *****  *****
+02/03/2023 11:38:30 PM ***** Finsished: SearchCustomerByName_005 run successfully *****
+02/03/2023 11:38:54 PM ====== WebDriver manager ======
+02/03/2023 11:38:58 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:39:03 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:39:06 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:39:06 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:39:10 PM *****    Read Username from sheet    *****
+02/03/2023 11:39:10 PM *****    Read Password from sheet    ******
+02/03/2023 11:39:10 PM *****    Read Expected from sheet    ******
+02/03/2023 11:39:23 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:39:25 PM *****    Read Username from sheet    *****
+02/03/2023 11:39:25 PM *****    Read Password from sheet    ******
+02/03/2023 11:39:25 PM *****    Read Expected from sheet    ******
+02/03/2023 11:39:35 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:39:35 PM *****    Read Username from sheet    *****
+02/03/2023 11:39:35 PM *****    Read Password from sheet    ******
+02/03/2023 11:39:35 PM *****    Read Expected from sheet    ******
+02/03/2023 11:39:45 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:39:45 PM *****    Read Username from sheet    *****
+02/03/2023 11:39:45 PM *****    Read Password from sheet    ******
+02/03/2023 11:39:45 PM *****    Read Expected from sheet    ******
+02/03/2023 11:39:54 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:39:54 PM *****    End of DDT Testing       *****
+02/03/2023 11:39:54 PM *****    Completed Test_001_Login_DDT    *****
+02/03/2023 11:41:58 PM ====== WebDriver manager ======
+02/03/2023 11:42:03 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:42:07 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:42:10 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:42:10 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:42:15 PM *****    Read Username from sheet    *****
+02/03/2023 11:42:15 PM *****    Read Password from sheet    ******
+02/03/2023 11:42:15 PM *****    Read Expected from sheet    ******
+02/03/2023 11:42:31 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:42:33 PM *****    Read Username from sheet    *****
+02/03/2023 11:42:33 PM *****    Read Password from sheet    ******
+02/03/2023 11:42:33 PM *****    Read Expected from sheet    ******
+02/03/2023 11:42:45 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:45:36 PM ====== WebDriver manager ======
+02/03/2023 11:45:41 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:45:46 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:45:49 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:45:49 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:45:53 PM *****    Read Username from sheet    *****
+02/03/2023 11:45:54 PM *****    Read Password from sheet    ******
+02/03/2023 11:45:54 PM *****    Read Expected from sheet    ******
+02/03/2023 11:46:09 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:46:11 PM *****    Read Username from sheet    *****
+02/03/2023 11:46:11 PM *****    Read Password from sheet    ******
+02/03/2023 11:46:11 PM *****    Read Expected from sheet    ******
+02/03/2023 11:46:22 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:46:22 PM *****    Read Username from sheet    *****
+02/03/2023 11:46:22 PM *****    Read Password from sheet    ******
+02/03/2023 11:46:22 PM *****    Read Expected from sheet    ******
+02/03/2023 11:46:32 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:46:32 PM *****    Read Username from sheet    *****
+02/03/2023 11:46:32 PM *****    Read Password from sheet    ******
+02/03/2023 11:46:32 PM *****    Read Expected from sheet    ******
+02/03/2023 11:46:42 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:46:42 PM *****    End of DDT Testing       *****
+02/03/2023 11:46:42 PM *****    Completed Test_001_Login_DDT    *****
+02/03/2023 11:47:33 PM ====== WebDriver manager ======
+02/03/2023 11:47:41 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:47:57 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:48:02 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:48:02 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:48:07 PM *****    Read Username from sheet    *****
+02/03/2023 11:48:07 PM *****    Read Password from sheet    ******
+02/03/2023 11:48:07 PM *****    Read Expected from sheet    ******
+02/03/2023 11:48:23 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:48:25 PM *****    Read Username from sheet    *****
+02/03/2023 11:48:25 PM *****    Read Password from sheet    ******
+02/03/2023 11:48:26 PM *****    Read Expected from sheet    ******
+02/03/2023 11:48:35 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:52:39 PM ====== WebDriver manager ======
+02/03/2023 11:52:44 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:52:49 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:52:52 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:52:52 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:52:57 PM *****    Read Username from sheet    *****
+02/03/2023 11:52:57 PM *****    Read Password from sheet    ******
+02/03/2023 11:52:57 PM *****    Read Expected from sheet    ******
+02/03/2023 11:53:11 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:53:13 PM *****    Read Username from sheet    *****
+02/03/2023 11:53:13 PM *****    Read Password from sheet    ******
+02/03/2023 11:53:13 PM *****    Read Expected from sheet    ******
+02/03/2023 11:53:23 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:53:24 PM *****    Read Username from sheet    *****
+02/03/2023 11:53:24 PM *****    Read Password from sheet    ******
+02/03/2023 11:53:24 PM *****    Read Expected from sheet    ******
+02/03/2023 11:53:33 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:53:34 PM *****    Read Username from sheet    *****
+02/03/2023 11:53:34 PM *****    Read Password from sheet    ******
+02/03/2023 11:53:34 PM *****    Read Expected from sheet    ******
+02/03/2023 11:53:44 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/03/2023 11:53:45 PM *****    End of DDT Testing       *****
+02/03/2023 11:53:45 PM *****    Completed Test_001_Login_DDT    *****
+02/03/2023 11:54:56 PM ====== WebDriver manager ======
+02/03/2023 11:55:02 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 11:55:06 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 11:55:09 PM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/03/2023 11:55:09 PM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/03/2023 11:55:12 PM *****    Read Username from sheet    *****
+02/03/2023 11:55:12 PM *****    Read Password from sheet    ******
+02/03/2023 11:55:12 PM *****    Read Expected from sheet    ******
+02/03/2023 11:55:25 PM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/03/2023 11:55:28 PM *****    Read Username from sheet    *****
+02/03/2023 11:55:28 PM *****    Read Password from sheet    ******
+02/03/2023 11:55:28 PM *****    Read Expected from sheet    ******
+02/03/2023 11:55:37 PM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:04:08 AM ====== WebDriver manager ======
+02/04/2023 12:04:12 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:04:17 AM About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+02/04/2023 12:04:32 AM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414]
+02/04/2023 12:05:25 AM ====== WebDriver manager ======
+02/04/2023 12:05:28 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:05:33 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:06:08 AM ====== WebDriver manager ======
+02/04/2023 12:06:12 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:06:18 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:07:26 AM ====== WebDriver manager ======
+02/04/2023 12:07:31 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:07:35 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:07:37 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:07:37 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:07:42 AM *****    Read Username from sheet    *****
+02/04/2023 12:07:42 AM *****    Read Password from sheet    ******
+02/04/2023 12:07:42 AM *****    Read Expected from sheet    ******
+02/04/2023 12:07:57 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:07:59 AM *****    Read Username from sheet    *****
+02/04/2023 12:07:59 AM *****    Read Password from sheet    ******
+02/04/2023 12:07:59 AM *****    Read Expected from sheet    ******
+02/04/2023 12:08:09 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:17:51 AM ====== WebDriver manager ======
+02/04/2023 12:17:56 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:18:04 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:18:06 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:18:06 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:18:12 AM *****    Read Username from sheet    *****
+02/04/2023 12:18:12 AM *****    Read Password from sheet    ******
+02/04/2023 12:18:12 AM *****    Read Expected from sheet    ******
+02/04/2023 12:18:24 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:18:27 AM *****    Read Username from sheet    *****
+02/04/2023 12:18:27 AM *****    Read Password from sheet    ******
+02/04/2023 12:18:27 AM *****    Read Expected from sheet    ******
+02/04/2023 12:18:37 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:18:38 AM *****    Read Username from sheet    *****
+02/04/2023 12:18:38 AM *****    Read Password from sheet    ******
+02/04/2023 12:18:38 AM *****    Read Expected from sheet    ******
+02/04/2023 12:18:47 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:18:47 AM *****    Read Username from sheet    *****
+02/04/2023 12:18:47 AM *****    Read Password from sheet    ******
+02/04/2023 12:18:47 AM *****    Read Expected from sheet    ******
+02/04/2023 12:18:57 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:18:57 AM *****    End of DDT Testing       *****
+02/04/2023 12:18:57 AM *****    Completed Test_001_Login_DDT    *****
+02/04/2023 12:30:45 AM ====== WebDriver manager ======
+02/04/2023 12:30:49 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:30:54 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:30:57 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:30:57 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:31:00 AM *****    Read Username from sheet    *****
+02/04/2023 12:31:00 AM *****    Read Password from sheet    ******
+02/04/2023 12:31:01 AM *****    Read Expected from sheet    ******
+02/04/2023 12:31:14 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:31:16 AM *****    Read Username from sheet    *****
+02/04/2023 12:31:16 AM *****    Read Password from sheet    ******
+02/04/2023 12:31:16 AM *****    Read Expected from sheet    ******
+02/04/2023 12:31:26 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:33:13 AM ====== WebDriver manager ======
+02/04/2023 12:33:17 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:33:22 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:33:24 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:33:24 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:33:28 AM *****    Read Username from sheet    *****
+02/04/2023 12:33:28 AM *****    Read Password from sheet    ******
+02/04/2023 12:33:28 AM *****    Read Expected from sheet    ******
+02/04/2023 12:33:42 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:33:44 AM *****    Read Username from sheet    *****
+02/04/2023 12:33:44 AM *****    Read Password from sheet    ******
+02/04/2023 12:33:44 AM *****    Read Expected from sheet    ******
+02/04/2023 12:33:53 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:33:53 AM *****    Read Username from sheet    *****
+02/04/2023 12:33:54 AM *****    Read Password from sheet    ******
+02/04/2023 12:33:54 AM *****    Read Expected from sheet    ******
+02/04/2023 12:34:03 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:34:03 AM *****    Read Username from sheet    *****
+02/04/2023 12:34:03 AM *****    Read Password from sheet    ******
+02/04/2023 12:34:03 AM *****    Read Expected from sheet    ******
+02/04/2023 12:34:12 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:34:12 AM *****    End of DDT Testing       *****
+02/04/2023 12:34:12 AM *****    Completed Test_001_Login_DDT    *****
+02/04/2023 12:35:29 AM ====== WebDriver manager ======
+02/04/2023 12:35:33 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:35:37 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:35:39 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:35:39 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:35:43 AM *****    Read Username from sheet    *****
+02/04/2023 12:35:43 AM *****    Read Password from sheet    ******
+02/04/2023 12:35:43 AM *****    Read Expected from sheet    ******
+02/04/2023 12:35:57 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:36:00 AM *****    Read Username from sheet    *****
+02/04/2023 12:36:00 AM *****    Read Password from sheet    ******
+02/04/2023 12:36:00 AM *****    Read Expected from sheet    ******
+02/04/2023 12:36:09 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:36:09 AM *****    Read Username from sheet    *****
+02/04/2023 12:36:10 AM *****    Read Password from sheet    ******
+02/04/2023 12:36:10 AM *****    Read Expected from sheet    ******
+02/04/2023 12:36:19 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:36:19 AM *****    Read Username from sheet    *****
+02/04/2023 12:36:19 AM *****    Read Password from sheet    ******
+02/04/2023 12:36:19 AM *****    Read Expected from sheet    ******
+02/04/2023 12:36:29 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:36:29 AM *****    End of DDT Testing       *****
+02/04/2023 12:36:29 AM *****    Completed Test_001_Login_DDT    *****
+02/04/2023 12:37:27 AM ====== WebDriver manager ======
+02/04/2023 12:37:43 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:37:57 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:37:59 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:37:59 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:38:06 AM *****    Read Username from sheet    *****
+02/04/2023 12:38:06 AM *****    Read Password from sheet    ******
+02/04/2023 12:38:06 AM *****    Read Expected from sheet    ******
+02/04/2023 12:38:21 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:38:24 AM *****    Read Username from sheet    *****
+02/04/2023 12:38:24 AM *****    Read Password from sheet    ******
+02/04/2023 12:38:24 AM *****    Read Expected from sheet    ******
+02/04/2023 12:38:33 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:38:33 AM *****    Read Username from sheet    *****
+02/04/2023 12:38:33 AM *****    Read Password from sheet    ******
+02/04/2023 12:38:33 AM *****    Read Expected from sheet    ******
+02/04/2023 12:38:43 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:38:43 AM *****    Read Username from sheet    *****
+02/04/2023 12:38:43 AM *****    Read Password from sheet    ******
+02/04/2023 12:38:43 AM *****    Read Expected from sheet    ******
+02/04/2023 12:38:53 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:38:53 AM *****    End of DDT Testing       *****
+02/04/2023 12:38:53 AM *****    Completed Test_001_Login_DDT    *****
+02/04/2023 12:40:08 AM ====== WebDriver manager ======
+02/04/2023 12:40:12 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:40:18 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:42:02 AM ====== WebDriver manager ======
+02/04/2023 12:42:06 AM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/04/2023 12:42:11 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/04/2023 12:42:13 AM ***** START : DATA DRIVEN TESTING OF LOGIN  *****
+02/04/2023 12:42:13 AM ***** DDT Test : Login with Data Driven Sheet and Dashboard title is compared  *****
+02/04/2023 12:42:17 AM *****    Read Username from sheet    *****
+02/04/2023 12:42:17 AM *****    Read Password from sheet    ******
+02/04/2023 12:42:17 AM *****    Read Expected from sheet    ******
+02/04/2023 12:42:31 AM *****   PASS: Valid Login ,Dashboard title is correct, status is 'PASS'   ***** 
+02/04/2023 12:42:33 AM *****    Read Username from sheet    *****
+02/04/2023 12:42:33 AM *****    Read Password from sheet    ******
+02/04/2023 12:42:33 AM *****    Read Expected from sheet    ******
+02/04/2023 12:42:43 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:42:43 AM *****    Read Username from sheet    *****
+02/04/2023 12:42:43 AM *****    Read Password from sheet    ******
+02/04/2023 12:42:43 AM *****    Read Expected from sheet    ******
+02/04/2023 12:42:52 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:42:52 AM *****    Read Username from sheet    *****
+02/04/2023 12:42:52 AM *****    Read Password from sheet    ******
+02/04/2023 12:42:52 AM *****    Read Expected from sheet    ******
+02/04/2023 12:43:01 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
+02/04/2023 12:43:01 AM *****    End of DDT Testing       *****
+02/04/2023 12:43:01 AM *****    Completed Test_001_Login_DDT    *****

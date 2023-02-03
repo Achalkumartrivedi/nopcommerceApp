@@ -20,6 +20,7 @@ class Test_SearchCustomerByEmail_004:
     email = ReadConfig.getEmail()
     logger = LogGenclass.loggenmethod()  # call loggenmethod of LEggenClass
 
+    @pytest.mark.regression
     def test_searchCustomerByName(self,setup):
         self.logger.info("***** START: SearchCustomerByName_005 *****")
         self.driver = setup

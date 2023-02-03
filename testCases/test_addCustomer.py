@@ -23,6 +23,7 @@ class Test_003_AddnewCustomer:
 
     logger = LogGenclass.loggenmethod() #call loggenmethod of LEggenClass
 
+    @pytest.mark.sanity
     def test_AddNewCustomer(self, setup):
 
         self.logger.info("*****  Start Test03 : Add New Customer  *****")
