@@ -18,7 +18,6 @@ class Test_SearchCustomerByEmail_004:
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
     email = ReadConfig.getEmail()
-    path = r'C:\Users\achal\PycharmProjects\nopcommerceApp\Testdata\logintestdata.xlsx'
     logger = LogGenclass.loggenmethod()  # call loggenmethod of LEggenClass
 
     def test_searchCustomerByEmail(self,setup):
@@ -44,23 +43,23 @@ class Test_SearchCustomerByEmail_004:
 
         #SearchByEmail pageobject from SearchCustomerPage.py
         self.searchcust = SearchCustomer(self.driver)
-        self.searchcust.setEmail("ww")  #self.email - direct pass value
+        self.searchcust.setEmail("steve_gates@nopCommerce.com")  #self.email - direct pass value
         self.logger.info("***** Entered email in field  *****")
         self.searchcust.clickSearch()
         self.logger.info("***** Click on Search button  *****")
         print("***** Click on Search button *****")
         time.sleep(5)
         status = self.searchcust.searchCustomerByEmail("steve_gates@nopCommerce.com")
-        print(status)
+        print(f"Flag is {status}")
 
         if status == True:
             assert True == status
             print("***** Flag:True - Searched email is present in table *****")
-            self.logger.info("***** ***** Flag:True - TC PASS: Searched email is present in table *****  *****")
+            self.logger.info("***** Flag:True - TC PASS: Searched email is present in table *****")
         else:
             assert False == status
             print("***** Flag:FALSE - Searched email is not present in table *****")
-            self.logger.info("***** ***** Flag:False - TC FAIL: Searched email is not present in table *****  *****")
+            self.logger.info("***** Flag:False - TC FAIL: Searched email is not present in table *****")
 
 
         self.logger.info("***** Finsished: SearchCustomerByEmail_004 run successfully *****")

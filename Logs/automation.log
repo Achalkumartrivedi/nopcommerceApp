@@ -1133,3 +1133,196 @@
 01/10/2023 06:21:02 AM ***** POM > Entered email is not found in table ..Return 'False' Flag *****
 01/10/2023 06:21:02 AM ***** ***** Flag:False - TC FAIL: Searched email is not present in table *****  *****
 01/10/2023 06:21:02 AM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+01/10/2023 06:33:59 AM ====== WebDriver manager ======
+01/10/2023 06:34:02 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 06:34:07 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 06:34:09 AM ***** START: SearchCustomerByName_005 *****
+01/10/2023 06:34:19 AM ***** Login Successful  *****
+01/10/2023 06:34:19 AM ***** Starting Search Customer By Name *****
+01/10/2023 06:34:22 AM ***** Entered FirstName in field  *****
+01/10/2023 06:34:22 AM ***** Click on Search button  *****
+01/10/2023 06:34:27 AM ***** ***** Flag:False - TC FAIL: Searched name is not present in table *****  *****
+01/10/2023 06:34:27 AM ***** Finsished: SearchCustomerByName_005 run successfully *****
+01/10/2023 06:41:34 AM ====== WebDriver manager ======
+01/10/2023 06:41:39 AM Get LATEST chromedriver version for google-chrome 108.0.5359
+01/10/2023 06:41:45 AM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+01/10/2023 06:41:48 AM ***** START: SearchCustomerByName_005 *****
+01/10/2023 06:41:58 AM ***** Login Successful  *****
+01/10/2023 06:41:58 AM ***** Starting Search Customer By Name *****
+01/10/2023 06:42:02 AM ***** Entered FirstName in field  *****
+01/10/2023 06:42:02 AM ***** Click on Search button  *****
+01/10/2023 06:42:07 AM ***** POM > Start function - searchCustomerByName() *****
+01/10/2023 06:42:07 AM ***** POM > Element is found in table and stored in 'table' *****
+01/10/2023 06:42:07 AM ***** POM > Elememt is found in third column and store in 'name' *****
+01/10/2023 06:42:07 AM ***** ***** Flag:True - TC PASS: Searched name is present in table *****  *****
+01/10/2023 06:42:07 AM ***** Finsished: SearchCustomerByName_005 run successfully *****
+02/03/2023 09:58:47 PM ====== WebDriver manager ======
+02/03/2023 09:58:55 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 09:59:00 PM There is no [win32] chromedriver for browser 109.0.5414 in cache
+02/03/2023 09:59:00 PM About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+02/03/2023 09:59:06 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414]
+02/03/2023 09:59:31 PM ====== WebDriver manager ======
+02/03/2023 09:59:36 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 09:59:40 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 09:59:44 PM ***** START Test 01: Login Page title verification *****
+02/03/2023 09:59:48 PM ***** Test 01 PASS: Login page Title is Correct *****
+02/03/2023 09:59:49 PM ====== WebDriver manager ======
+02/03/2023 09:59:55 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:00:01 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:00:03 PM ***** START Test 02: Dashboad Page title verification *****
+02/03/2023 10:00:11 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/03/2023 10:01:26 PM ====== WebDriver manager ======
+02/03/2023 10:01:34 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:01:42 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:01:46 PM ***** START: SearchCustomerByName_005 *****
+02/03/2023 10:01:54 PM ***** Login Successful  *****
+02/03/2023 10:01:54 PM ***** Starting Search Customer By Name *****
+02/03/2023 10:01:59 PM ***** Entered FirstName in field  *****
+02/03/2023 10:01:59 PM ***** Click on Search button  *****
+02/03/2023 10:02:04 PM ***** POM > Start function - searchCustomerByName() *****
+02/03/2023 10:02:04 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:02:04 PM ***** POM > Elememt is found in third column and store in 'name' *****
+02/03/2023 10:02:04 PM ***** ***** Flag:True - TC PASS: Searched name is present in table *****  *****
+02/03/2023 10:02:04 PM ***** Finsished: SearchCustomerByName_005 run successfully *****
+02/03/2023 10:02:45 PM ====== WebDriver manager ======
+02/03/2023 10:02:50 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:02:55 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:02:58 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:03:08 PM ***** Login Successful  *****
+02/03/2023 10:03:08 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:03:14 PM ***** Entered email in field  *****
+02/03/2023 10:03:14 PM ***** Click on Search button  *****
+02/03/2023 10:03:19 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:03:20 PM ***** POM > Entered email is not found in table ..Return 'False' Flag *****
+02/03/2023 10:03:20 PM ***** ***** Flag:False - TC FAIL: Searched email is not present in table *****  *****
+02/03/2023 10:03:20 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+02/03/2023 10:06:29 PM ====== WebDriver manager ======
+02/03/2023 10:06:34 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:06:39 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:06:42 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:06:55 PM ***** Login Successful  *****
+02/03/2023 10:06:55 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:06:58 PM ***** Entered email in field  *****
+02/03/2023 10:06:58 PM ***** Click on Search button  *****
+02/03/2023 10:07:03 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:07:03 PM ***** POM > Entered email is not found in table ..Return 'False' Flag *****
+02/03/2023 10:07:03 PM ***** Flag:False - TC FAIL: Searched email is not present in table *****
+02/03/2023 10:07:03 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+02/03/2023 10:16:04 PM ====== WebDriver manager ======
+02/03/2023 10:16:09 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:16:16 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:16:18 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:16:31 PM ***** Login Successful  *****
+02/03/2023 10:16:31 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:16:35 PM ***** Entered email in field  *****
+02/03/2023 10:16:35 PM ***** Click on Search button  *****
+02/03/2023 10:16:40 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:16:40 PM ***** POM > Entered email is not found in table ..Return 'False' Flag *****
+02/03/2023 10:16:40 PM ***** Flag:False - TC FAIL: Searched email is not present in table *****
+02/03/2023 10:16:40 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+02/03/2023 10:18:30 PM ====== WebDriver manager ======
+02/03/2023 10:18:34 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:18:38 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:18:41 PM ***** START: SearchCustomerByName_005 *****
+02/03/2023 10:18:53 PM ***** Login Successful  *****
+02/03/2023 10:18:53 PM ***** Starting Search Customer By Name *****
+02/03/2023 10:18:56 PM ***** Entered FirstName in field  *****
+02/03/2023 10:18:56 PM ***** Click on Search button  *****
+02/03/2023 10:19:01 PM ***** POM > Start function - searchCustomerByName() *****
+02/03/2023 10:19:01 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:19:01 PM ***** POM > Elememt is found in third column and store in 'name' *****
+02/03/2023 10:19:01 PM ***** ***** Flag:True - TC PASS: Searched name is present in table *****  *****
+02/03/2023 10:19:01 PM ***** Finsished: SearchCustomerByName_005 run successfully *****
+02/03/2023 10:26:04 PM ====== WebDriver manager ======
+02/03/2023 10:26:08 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:26:13 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:26:16 PM ***** START: SearchCustomerByName_005 *****
+02/03/2023 10:26:25 PM ***** Login Successful  *****
+02/03/2023 10:26:25 PM ***** Starting Search Customer By Name *****
+02/03/2023 10:26:28 PM ***** Entered FirstName in field  *****
+02/03/2023 10:26:28 PM ***** Click on Search button  *****
+02/03/2023 10:26:33 PM ***** POM > Start function - searchCustomerByName() *****
+02/03/2023 10:26:33 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:26:33 PM ***** POM > Elememt is found in third column and store in 'name' *****
+02/03/2023 10:26:33 PM ***** ***** Flag:True - TC PASS: Searched name is present in table *****  *****
+02/03/2023 10:26:33 PM ***** Finsished: SearchCustomerByName_005 run successfully *****
+02/03/2023 10:27:48 PM ====== WebDriver manager ======
+02/03/2023 10:27:51 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:27:56 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:27:59 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:28:10 PM ***** Login Successful  *****
+02/03/2023 10:28:10 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:28:13 PM ***** Entered email in field  *****
+02/03/2023 10:28:13 PM ***** Click on Search button  *****
+02/03/2023 10:28:19 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:28:19 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:33:11 PM ====== WebDriver manager ======
+02/03/2023 10:33:15 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:33:20 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:33:22 PM ***** START: SearchCustomerByName_005 *****
+02/03/2023 10:33:33 PM ***** Login Successful  *****
+02/03/2023 10:33:33 PM ***** Starting Search Customer By Name *****
+02/03/2023 10:33:36 PM ***** Entered FirstName in field  *****
+02/03/2023 10:33:36 PM ***** Click on Search button  *****
+02/03/2023 10:33:41 PM ***** POM > Start function - searchCustomerByName() *****
+02/03/2023 10:33:41 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:33:42 PM ***** POM > Elememt is found in third column and store in 'name' *****
+02/03/2023 10:33:42 PM ***** ***** Flag:True - TC PASS: Searched name is present in table *****  *****
+02/03/2023 10:33:42 PM ***** Finsished: SearchCustomerByName_005 run successfully *****
+02/03/2023 10:36:43 PM ====== WebDriver manager ======
+02/03/2023 10:36:47 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:36:52 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:36:54 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:37:05 PM ***** Login Successful  *****
+02/03/2023 10:37:05 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:37:09 PM ***** Entered email in field  *****
+02/03/2023 10:37:09 PM ***** Click on Search button  *****
+02/03/2023 10:37:14 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:37:14 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:48:07 PM ====== WebDriver manager ======
+02/03/2023 10:48:12 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:48:17 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:48:20 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:48:28 PM ***** Login Successful  *****
+02/03/2023 10:48:28 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:48:31 PM ***** Entered email in field  *****
+02/03/2023 10:48:31 PM ***** Click on Search button  *****
+02/03/2023 10:48:36 PM ***** POM > Start function - searchCustomerByName() *****
+02/03/2023 10:48:36 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:50:10 PM ====== WebDriver manager ======
+02/03/2023 10:50:15 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:50:19 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:50:22 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:50:29 PM ***** Login Successful  *****
+02/03/2023 10:50:29 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:50:32 PM ***** Entered email in field  *****
+02/03/2023 10:50:33 PM ***** Click on Search button  *****
+02/03/2023 10:50:38 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:50:38 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:54:02 PM ====== WebDriver manager ======
+02/03/2023 10:54:06 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:54:12 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:54:14 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:54:26 PM ***** Login Successful  *****
+02/03/2023 10:54:26 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:54:29 PM ***** Entered email in field  *****
+02/03/2023 10:54:29 PM ***** Click on Search button  *****
+02/03/2023 10:54:34 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:54:34 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:54:34 PM ***** POM > Elememt is found in second column and store in 'emailid' variable *****
+02/03/2023 10:54:34 PM ***** Flag:True - TC PASS: Searched email is present in table *****
+02/03/2023 10:54:34 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
+02/03/2023 10:56:22 PM ====== WebDriver manager ======
+02/03/2023 10:56:28 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/03/2023 10:56:34 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/03/2023 10:56:37 PM ***** START: SearchCustomerByEmail_004 *****
+02/03/2023 10:56:48 PM ***** Login Successful  *****
+02/03/2023 10:56:48 PM ***** Starting Search Customer By Email *****
+02/03/2023 10:56:51 PM ***** Entered email in field  *****
+02/03/2023 10:56:52 PM ***** Click on Search button  *****
+02/03/2023 10:56:57 PM ***** POM > Start function - searchCustomerByEmail() *****
+02/03/2023 10:56:57 PM ***** POM > Element is found in table and stored in 'table' *****
+02/03/2023 10:56:57 PM ***** POM > Elememt is found in second column and store in 'emailid' *****
+02/03/2023 10:56:57 PM ***** POM > Found email is equal to the entered ..Return 'True' Flag *****
+02/03/2023 10:56:57 PM ***** Flag:True - TC PASS: Searched email is present in table *****
+02/03/2023 10:56:57 PM ***** Finsished: SearchCustomerByEmail_004 run successfully *****
