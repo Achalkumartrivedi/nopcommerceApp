@@ -75,8 +75,12 @@ Run  :for HTML reports pytest -v -n=2 --html=Reports/report.html testCases/test_
 Run sanity after marking:  pytest -s -v -m "sanity" 
 Run mehods which have both sanity and regresstion (only 1 executed): pytest -s -v -m "sanity and regression"
 Run methods which have one of them (all exexuted): pytest -s -v -m "sanity or regression"
+Run sanity with generate html code: pytest -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrome
 
-
+Make Run.bat file 
+1)open project folder 2)create text file and rename run.bat
+3)copy "pytest -v -m ......" in text file ,also use 'rem' for comment line
+4)run bat file to click on it ,it run through command prompt
 
 
 

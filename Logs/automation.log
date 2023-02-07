@@ -1685,3 +1685,55 @@
 02/04/2023 12:43:01 AM ***** FAIL: Invalid Login, status is 'FAIL'  ***** 
 02/04/2023 12:43:01 AM *****    End of DDT Testing       *****
 02/04/2023 12:43:01 AM *****    Completed Test_001_Login_DDT    *****
+02/07/2023 09:36:34 PM ====== WebDriver manager ======
+02/07/2023 09:36:39 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/07/2023 09:36:43 PM About to download new driver from https://chromedriver.storage.googleapis.com/109.0.5414.74/chromedriver_win32.zip
+02/07/2023 09:36:48 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414]
+02/07/2023 09:36:52 PM ***** START Test 02: Dashboad Page title verification *****
+02/07/2023 09:37:01 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/07/2023 09:37:02 PM ====== WebDriver manager ======
+02/07/2023 09:37:05 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/07/2023 09:37:11 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/07/2023 09:37:12 PM *****  Start Test03 : Add New Customer  *****
+02/07/2023 09:37:20 PM *****   Login successful   *****
+02/07/2023 09:37:23 PM *****   Going to Add New Customer form  *****
+02/07/2023 09:37:28 PM *****    Starting customer form filling   *****
+02/07/2023 09:37:41 PM *****   Saving customer info   *****
+02/07/2023 09:37:41 PM *****   successful message verification started   *****
+02/07/2023 09:37:41 PM *****   Add Customer Test Passed    *****
+02/07/2023 09:37:42 PM *****    ENDING of Test 03:Add New Customer    *****
+02/07/2023 10:25:52 PM ====== WebDriver manager ======
+02/07/2023 10:25:56 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/07/2023 10:25:58 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/07/2023 10:26:00 PM ***** START Test 02: Dashboad Page title verification *****
+02/07/2023 10:26:10 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/07/2023 10:26:10 PM ====== WebDriver manager ======
+02/07/2023 10:26:12 PM Get LATEST chromedriver version for google-chrome 109.0.5414
+02/07/2023 10:26:13 PM Driver [C:\Users\achal\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+02/07/2023 10:26:15 PM *****  Start Test03 : Add New Customer  *****
+02/07/2023 10:26:21 PM *****   Login successful   *****
+02/07/2023 10:26:24 PM *****   Going to Add New Customer form  *****
+02/07/2023 10:26:29 PM *****    Starting customer form filling   *****
+02/07/2023 10:26:39 PM *****   Saving customer info   *****
+02/07/2023 10:26:39 PM *****   successful message verification started   *****
+02/07/2023 10:26:39 PM *****   Add Customer Test Passed    *****
+02/07/2023 10:26:39 PM *****    ENDING of Test 03:Add New Customer    *****
+02/07/2023 10:51:25 PM ====== WebDriver manager ======
+02/07/2023 10:51:31 PM Get LATEST geckodriver version for 109.0 firefox
+02/07/2023 10:51:34 PM There is no [win64] geckodriver for browser 109.0 in cache
+02/07/2023 10:51:34 PM Getting latest mozilla release info for v0.32.1
+02/07/2023 10:51:34 PM About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.1/geckodriver-v0.32.1-win64.zip
+02/07/2023 10:51:46 PM Driver has been saved in cache [C:\Users\achal\.wdm\drivers\geckodriver\win64\0.32]
+02/07/2023 10:51:54 PM ***** START Test 02: Dashboad Page title verification *****
+02/07/2023 10:52:01 PM ***** Test 02 PASS: Dashboard Page title is expected *****
+02/07/2023 10:52:03 PM ====== WebDriver manager ======
+02/07/2023 10:52:07 PM Get LATEST geckodriver version for 109.0 firefox
+02/07/2023 10:52:12 PM Driver [C:\Users\achal\.wdm\drivers\geckodriver\win64\0.32\geckodriver.exe] found in cache
+02/07/2023 10:52:22 PM *****  Start Test03 : Add New Customer  *****
+02/07/2023 10:52:28 PM *****   Login successful   *****
+02/07/2023 10:52:31 PM *****   Going to Add New Customer form  *****
+02/07/2023 10:52:35 PM *****    Starting customer form filling   *****
+02/07/2023 10:52:45 PM *****   Saving customer info   *****
+02/07/2023 10:52:45 PM *****   successful message verification started   *****
+02/07/2023 10:52:45 PM *****   Add Customer Test Passed    *****
+02/07/2023 10:52:47 PM *****    ENDING of Test 03:Add New Customer    *****
